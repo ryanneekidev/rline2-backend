@@ -4,5 +4,5 @@ RLine is a full-featured and full stack social media application that offers tra
 Aswell as advanced features such as customized feeds, real-time messaging, etc...
 
 ```
-    This is a rewrite of the original project (https://github.com/ryanneekidev/rline-backend) but in Python
+This is a rewrite of the original project (https://github.com/ryanneekidev/rline-backend) but in Python
 ```
